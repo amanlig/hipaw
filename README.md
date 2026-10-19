@@ -1,3 +1,12 @@
+﻿# HiPaw
+
+A home for memories of Levi and Rocky, with a future vision of recreating past moments and imagining new experiences together.
+
+Open **index.html** in a browser to view the standalone home page. No installation or build is required. Personal memory storage and generation features are not implemented yet.
+
+See [project intentions and next steps](docs/HIPAW-VISION.md). The existing gallery library and examples are retained below.
+
+---
 # React Photo Gallery
 
 [![Join the chat at https://gitter.im/react-photo-gallery/Lobby](https://badges.gitter.im/react-photo-gallery/Lobby.svg)](https://gitter.im/react-photo-gallery/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
